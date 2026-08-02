@@ -75,6 +75,25 @@ location: Pune, India
 </div>
 
 <br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadnyeshkhotre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyeshkhotre&layout=compact&theme=radical"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyeshkhotre&theme=radical" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&theme=redical" width="100%"/>
+
+</div>
+
+<br/>
 ## 🐍 Contribution Snake
 
 <div align="center">
