@@ -21,9 +21,10 @@
 ## 👨‍💻 About Me
 
 '''yaml
-name: Ayush Kashyap
+name: Ayush kashyap
 role: student
 location: Pune, India
+
 '''
 
 - 📫 How to reach me: **ayushkashyap8709@gmail.com*
