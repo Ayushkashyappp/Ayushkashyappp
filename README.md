@@ -22,7 +22,7 @@
 
 '''yaml
 name: Ayush kashyap
-role: student
+role: Student
 location: Pune, India
 '''
 
