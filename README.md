@@ -24,7 +24,6 @@
 name: Ayush kashyap
 role: student
 location: Pune, India
-
 '''
 
 - 📫 How to reach me: **ayushkashyap8709@gmail.com*
@@ -35,7 +34,7 @@ location: Pune, India
 
 <div align="center">
 
-*Languages*
+**Languages**
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
